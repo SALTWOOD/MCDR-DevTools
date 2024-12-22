@@ -1,0 +1,21 @@
+saltwood_devtools:
+  help_message: |
+    ========{0} v{1}========
+    为使用 MCDR 的用户、MC 服主和 MCDR 插件/本体开发者设计的调试工具。
+  
+  strings:
+    python:
+      current_version: |
+        Python 版本：{0}
+        运行时信息：
+        - 系统：{1}
+        - 系统版本：{2}
+        - 架构：{3}
+        - CPU：{4}
+
+  register:
+    summary: 为 MCDR 制作的调试工具。
+    hover: 点击查看详细帮助
+
+  error:
+    no_enough_permission: 你没有足够的权限！

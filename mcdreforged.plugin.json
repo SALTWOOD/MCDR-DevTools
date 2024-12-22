@@ -1,5 +1,5 @@
 {
-    "id": "devtools",
+    "id": "saltwood_devtools",
     "version": "1.0.0",
     "name": "MCDR DevTools",
     "description": "A debugger plugin that helps developers.",

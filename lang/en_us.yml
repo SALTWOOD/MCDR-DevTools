@@ -1,0 +1,21 @@
+saltwood_devtools:
+  help_message: |
+    ========{0} v{1}========
+    A debugging tool designed for MCDR users, Minecraft server owners, and MCDR plugin/core developers to inspect, analyze, and troubleshoot MCDR-based environments.
+  
+  strings:
+    python:
+      current_version: |
+        Python version: {0}
+        Runtime information: 
+        - Operating System: {1}
+        - OS Version: {2}
+        - Architecture: {3}
+        - CPU: {4}
+  
+  register:
+    summary: A DevTool for MCDR.
+    hover: Click for help.
+
+  error:
+    no_enough_permission: Permission deined.
