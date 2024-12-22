@@ -1,0 +1,17 @@
+{
+    "id": "devtools",
+    "version": "1.0.0",
+    "name": "MCDR DevTools",
+    "description": "A debugger plugin that helps developers.",
+    "author": [
+        "SALTWOOD"
+    ],
+    "link": "https://github.com/SALTWOOD/MCDR-DevTools",
+    "dependencies": {
+
+    },
+
+    "resources": [
+        "lang"
+    ]
+}
